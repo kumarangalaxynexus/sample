@@ -1,1 +1,2 @@
-Testing GitHub Repo
+Testing GitHub Repo.
+It seems very simple.
